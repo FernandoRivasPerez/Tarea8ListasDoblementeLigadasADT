@@ -1,6 +1,0 @@
-Información de la entrega
-El archivo Array2dADT_1310 contiene el codigo que demuestra que mis 
-reglas en la celulas funcionan, el archivo Array2dADT_1310 (1) ya 
-guarda los cambios de las reglas en la variable nueva_gen, 
-sin embargo ya no supe como realizar el ciclo para que lo repitiera 
-segun el numero de generaciones, mis intentos no me salieron.
